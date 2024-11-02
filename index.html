@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Absurd Recipe Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Absurd Recipe Generator</h1>
+        
+        <!-- Input Section for Ingredients -->
+        <form id="ingredientForm">
+            <label for="ingredientInput">Enter Random Ingredients:</label>
+            <input type="text" id="ingredientInput" placeholder="Type a random ingredient and press Enter">
+            <ul id="customIngredientList"></ul>
+            <button type="submit">Generate Absurd Recipe</button>
+        </form>
+
+        <!-- Recipe Display Section -->
+        <div id="recipe" class="hidden">
+            <h2 id="recipeName"></h2>
+            <h3>Ingredients:</h3>
+            <ul id="ingredientList"></ul>
+            <h3>Instructions:</h3>
+            <p id="instructions"></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
