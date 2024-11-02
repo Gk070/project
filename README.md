@@ -37,6 +37,11 @@ Implementation
 
         Installation
 
+            # Clone the repository
+            git clone https://github.com/Gk070/project/AbsurdRecipeGenerator.git
+            cd AbsurdRecipeGenerator
+
+
         Run
 
             1. Open index.html in your favorite web browser
@@ -49,9 +54,11 @@ Project Documentation
 
             ![Project Screenshot](images/Magical_Spinach_Delight.png)
             ![Project Screenshot](images/Bizarre_Maggi_Delight.png)
-            ![Project Screenshot](images/Magical_Spinach_Delight.png)
+            ![Project Screenshot](images/Dreamy_Curd_Delight.png)
 
         Diagrams
+
+             ![Diagram Screenshot](images/diagram.png)
 
 Team Contributions
 
