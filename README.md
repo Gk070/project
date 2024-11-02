@@ -48,6 +48,8 @@ Project Documentation
         Screenshots
 
             ![Project Screenshot](images/Magical_Spinach_Delight.png)
+            ![Project Screenshot](images/Bizarre_Maggi_Delight.png)
+            ![Project Screenshot](images/Magical_Spinach_Delight.png)
 
         Diagrams
 
