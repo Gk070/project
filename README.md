@@ -47,6 +47,8 @@ Project Documentation
 
         Screenshots
 
+            ![Project Screenshot](C:\Users\geeth\OneDrive\Desktop\make_a_thon\Magical_Spinach_Delight.png)
+
         Diagrams
 
 Team Contributions
