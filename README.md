@@ -8,7 +8,6 @@ Team Members
 
     Team Lead: AKSHAY S - RIT KOTTAYAM
     Member 2: GEETHUL KRISHNA G D - RIT KOTTAYAM
-    Member 3: ADWAIDH K SHAJU - RIT KOTTAYAM
 
 Project Description
 
